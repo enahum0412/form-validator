@@ -5,4 +5,4 @@ Form Validator is a simple example of a HTML/CSS + Vanilla JavaScript project cr
 Form Validator uses HTML, CSS and Vanilla JavaScript to create the front-end design that you can see through the preview link below.
 
 # Preview
-https://form-validator.netlify.app
+https://form-validator-vanillajs.netlify.app
